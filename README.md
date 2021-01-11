@@ -1,5 +1,5 @@
-# Whats App Automation
-### Whats App Automation using pywhatkit
+# WhatsApp Automation
+### WhatsApp Automation using pywhatkit
 The program allows us to automate sending messages to avoid sending the same message to different to people.</br>
 The name is appended to the fixed test message that is sent to the contacts. </br>
 Can be used for notifications and greetings.</br>
