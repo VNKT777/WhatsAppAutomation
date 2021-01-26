@@ -12,3 +12,4 @@ Add the Contact number to the respective Name.</br>
 </br>
 </br>
 Next Update: Using dictionary to avoid confusion.
+bulk messaging
